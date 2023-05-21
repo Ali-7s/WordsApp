@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="VideoGames">
+        <item>Aargh</item>
+        <item>Bloodborne</item>
+        <item>Crash Bandicoot N. Sane Trilogy</item>
+        <item>Days Gone</item>
+        <item>Everybody\'s Golf</item>
+        <item>Fallout 4</item>
+        <item>God of War</item>
+        <item>Horizon Zero Dawn</item>
+        <item>Infamous: Second Son</item>
+        <item>Journey</item>
+        <item>Killzone Shadow Fall</item>
+        <item>LittleBigPlanet 3</item>
+        <item>Marvel\'s Spider-Man</item>
+        <item>Nioh</item>
+        <item>Overwatch</item>
+        <item>Persona 5 Royal</item>
+        <item>Quantum Break</item>
+        <item>Ratchet &amp; Clank</item>
+        <item>Shadow of the Colossus</item>
+        <item>The Last Guardian</item>
+        <item>Uncharted 4: A Thief\'s End</item>
+        <item>Valkyria Chronicles Remastered</item>
+        <item>Watch Dogs 2</item>
+        <item>XCOM 2</item>
+        <item>Yakuza 0</item>
+        <item>Zero Escape: The Nonary Games</item>
+        <item>Assassin\'s Creed Odyssey</item>
+        <item>BioShock Infinite</item>
+        <item>Call of Duty: Modern Warfare</item>
+        <item>Destiny 2</item>
+        <item>Evil Within 2</item>
+        <item>Far Cry 5</item>
+        <item>Ghost Recon Wildlands</item>
+        <item>Hitman 2</item>
+        <item>Injustice 2</item>
+        <item>Just Cause 4</item>
+        <item>Kerbal Space Program</item>
+        <item>L.A. Noire</item>
+        <item>Metro Exodus</item>
+        <item>NBA 2K21</item>
+        <item>Outlast 2</item>
+        <item>Prey</item>
+        <item>Quantum Break</item>
+        <item>Resident Evil 7: Biohazard</item>
+        <item>Star Wars Jedi: Fallen Order</item>
+        <item>Titanfall 2</item>
+        <item>Unravel Two</item>
+        <item>Valiant Hearts: The Great War</item>
+        <item>Wolfenstein II: The New Colossus</item>
+        <item>XCOM 2</item>
+        <item>Yakuza Kiwami</item>
+        <item>Zombie Army 4: Dead War</item>
+    </string-array>
+</resources>
